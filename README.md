@@ -6,7 +6,7 @@ much as you can within the time limit, and level up to your ultimate form!
 [Steam Page](https://store.steampowered.com/app/1668590/Neokaiju/)
 
 I joined the Neokaiju project on its second semester of development and quickly became the lead developer of the game.
-We actually worked on the project using SVN, I'm just uploading the source code (no assets) to GitHub for our interview.
+We actually worked on the project using SVN, I'm just uploading the source code to demonstrate my work on the project. About 75% of the code you see here is my work.
 
 Some of my responsibilities:
 * Architected game framework and main character in Unreal Engine C++, focusing on proper design principles, code organization, and ease of use for artists.
